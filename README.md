@@ -28,7 +28,7 @@
 
 <br>
 
-<h2 align="left" id="tech-stack">I code with</h2>
+<h2 align="left" id="tech-stack">Skills</h2>
 
 > Tools, languages, and other things that I like to work with.
 
