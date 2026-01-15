@@ -1,6 +1,7 @@
 <h1 align="left" id="fahad-title">:wave: Hello there! I'm Fahad Bhuiyan</h1>
 <h3 align="left">Web Developer & Full-Stack Enthusiast</h3>
 
+<h2 align="left" >ABout Me</h2>
 <p align="left">
   Passionate Web Developer dedicated to crafting seamless user experiences from the UI to the database. Experienced in building full-stack projects using <b>MongoDB, Node.js, and Tailwind CSS</b>. Always looking for new ways to build faster, more accessible web applications.
 </p>
