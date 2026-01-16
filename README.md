@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co.com/4ncdbN7k" width="100%" alt="Fahad Bhuiyan - AI Powered Web Developer Banner" />
+  <img src="./assets/Gemini_Generated_Image_zg8bf9zg8bf9zg8b.png" width="100%" alt="Fahad Bhuiyan - AI Powered Web Developer Banner" />
 </p>
 
 <h1 align="left" id="fahad-title"> Hello there! I'm Fahad Bhuiyan</h1>
